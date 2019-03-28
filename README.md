@@ -1,1 +1,1 @@
-# reddit-bot
+# Scrabble reddit-bot
